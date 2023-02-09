@@ -1,3 +1,13 @@
+Projeto versão front-end de um sistema de pizzaria;
+
+Tecnologias: next.js, node.js, typescript, Banco de dados postegres, sass;
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
